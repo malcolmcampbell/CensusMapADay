@@ -1,5 +1,5 @@
 # CensusMapADay
-A may every day of September, from the NZ Census 2018
+A may every day of September, from the NZ Census 2018. See the Code folder for daily updates.
 
 | Day         | Description | Code |
 | ----------- | ----------- | ----------- |
