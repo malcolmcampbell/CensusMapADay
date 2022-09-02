@@ -5,8 +5,8 @@ A may every day of September, from the NZ Census 2018
 | ----------- | ----------- |
 | 1           | Statistical Area 2 Geogrpahies  |
 | 2           | Population  |
-| 3           | Population  |
-| 4           | Population  |
-| 5           | Population  |
-| 6           | Population  |
-| 7           | Population  |
+| 3           | ?  |
+| 4           | ?  |
+| 5           | ?  |
+| 6           | ?  |
+| 7           | ?  |
