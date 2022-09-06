@@ -1,5 +1,5 @@
 # CENSUS MAP A DAY
-# DAY 3 - Geography of Auckland Territotial Authority (at 2018) - September 2022
+# DAY 3 - Geography of Auckland Territotial Authority - Super City (at 2018) - September 2022 
 
 # Associate Professor Malcolm Campbell
 # Attribution-Non Commercial-ShareAlike  # CC BY-NC-SA 
