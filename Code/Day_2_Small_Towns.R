@@ -7,7 +7,7 @@
 # 2018 Census Statistical Area 2
 # source STATSNZ
 # https://datafinder.stats.govt.nz/layer/92213-statistical-area-2-2018-clipped-generalised/
-# Unzip from GITHUB 
+# Unzip from GITHUB  
 
 library(tidyverse)
 library(sf)
