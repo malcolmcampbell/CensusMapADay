@@ -10,3 +10,4 @@ A may every day of September, from the NZ Census 2018. See the Code folder for d
 | Mon 5 Sept  | Health Geography. DHBs (Bonus Feature = Health NZ Regions)  | Day5_Health_Geographies.R  |
 | Tue 6 Sept  | ?  |?  |
 | Wed 7 Sept  | ?  |?  |
+| Thu 8 Sept  | ?  |?  |
