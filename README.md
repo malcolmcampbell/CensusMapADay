@@ -11,13 +11,13 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 |5  | Tue 6 Sept  | Health Geography. DHBs (Bonus Feature = Health NZ Regions)  | Day5_Health_Geographies.R  |
 |6  | Wed 7 Sept  | ?  |?  |
 |7  | Thu 8 Sept  | ?  |?  |
-|?  | Fri 9 Sept  | ?  |?  |
-|?  | Sat 10 Sept  | ?  |?  |
+|8  | Fri 9 Sept  | ?  |?  |
+|9  | Sat 10 Sept  | ?  |?  |
 | - | Sun 11 Sept  | ?  |?  |
-|?  | Mon 12 Sept  | ?  |?  |
-|?  | Tue 13 Sept  | ?  |?  |
-|?  | Wed 14 Sept  | ?  |?  |
-|?  | Thu 15 Sept  | ?  |?  |
-|?  | Fri 16 Sept  | ?  |?  |
-|?  | Sat 17 Sept  | ?  |?  |
+|10  | Mon 12 Sept  | ?  |?  |
+|11  | Tue 13 Sept  | ?  |?  |
+|12 | Wed 14 Sept  | ?  |?  |
+|13  | Thu 15 Sept  | ?  |?  |
+|14  | Fri 16 Sept  | ?  |?  |
+|15  | Sat 17 Sept  | ?  |?  |
 | - | Sun 18 Sept  | - | - |
