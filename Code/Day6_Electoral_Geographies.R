@@ -95,4 +95,15 @@ MED_map
 
 #basic 2 panel map
 tmap_arrange(GED_map, MED_map)
+
+#########################################################
+# BONUS - ADD the MPs
+
+# download from web - list of MPs
+url <- c("https://catalogue.data.govt.nz/datastore/dump/89069a40-abcf-4190-9665-3513ff004dd8?bom=True")
+MPS <- read.csv(url, fileEncoding = 'UTF-8-BOM')
+MPS
+# take out list MPs
+MPS <- MPS %>% 
+  filter(Job.Title!="List Member")
 #END
