@@ -9,7 +9,7 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 | - | Sun 4 Sept  | - | - |
 |4  | Mon 5 Sept  | Local Councils. NZ. (Bounus Feature = NZ Coast) | Day4_Local_Councils.R  |
 |5  | Tue 6 Sept  | Health Geography. DHBs (Bonus Feature = Health NZ Regions)  | Day5_Health_Geographies.R  |
-|6  | Wed 7 Sept  | ?  |Day6_Electoral_Geographies.R  |
+|6  | Wed 7 Sept  | Electoral Geography  | Day6_Electoral_Geographies.R  |
 |7  | Thu 8 Sept  | ?  |?  |
 |8  | Fri 9 Sept  | ?  |?  |
 |9  | Sat 10 Sept  | ?  |?  |
