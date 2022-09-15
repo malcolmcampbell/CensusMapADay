@@ -1,15 +1,12 @@
 # CENSUS MAP A DAY
 # DAY 7 - Population - September 2022
-
 # Associate Professor Malcolm Campbell
 # Attribution-Non Commercial-ShareAlike  # CC BY-NC-SA 
-
 # 2018 Census Statistical Area 2
 # source STATSNZ
 # https://datafinder.stats.govt.nz/layer/92213-statistical-area-2-2018-clipped-generalised/
 # Unzip from GITHUB 
-# Create DHB from SA2 using a concordance and Health NZ regions
-# https://www.google.com/url?sa=t&rct=j&q=&esrc
+# Create population SA2 using part 1 census
 
 library(tidyverse)
 library(sf)
