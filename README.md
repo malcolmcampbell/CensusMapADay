@@ -21,3 +21,11 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 |14  | Fri 16 Sept  | ?  |?  |
 |15  | Sat 17 Sept  | ?  |?  |
 |*| Sun 18 Sept |*|*|
+|16  | Mon 19 Sept  | ?  |?  |
+|17  | Tue 20 Sept  | ?  |?  |
+|18 | Wed 21 Sept  | ?  |?  |
+|19  | Thu 22 Sept  | ?  |?  |
+|20  | Fri 23 Sept  | ?  |?  |
+|21  | Sat 24 Sept  | ?  |?  |
+|*| Sun 25 Sept |*|*|
+|*| Mon 26 Sept |Queen Elizabeth II Memorial Day|*|
