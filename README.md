@@ -14,7 +14,7 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 |8  | Fri 9 Sep  | Population Change, by TA, 2013-18  |  Day8_Population_Change.R |
 |9  | Sat 10 Sep  | Population by Age Group, by TA, Children 2018 (Bonus Feature = multiple maps) |  Day9_Population_Age.R |
 |*| Sun 11 Sep |* | * |
-|10 |Mon 12 Sep| Population by Age Group, by TA, Over65s 2018 | Day10_Population_Age_Over65.R |
+|10 | Mon 12 Sep | Population by Age Group, by TA, Over65s 2018 | Day10_Population_Age_Over65.R |
 |11 | Tue 13 Sep | Population Dependency Ratios, by TA, 2013 to 2018 | Day11_Population_Dependency_Ratio.R  |
 |12 | Wed 14 Sep | Population Sex Ratios, battle of the sexes, by TA, 2018  |Day12_Population_Sex_Ratio.R  |
 |13 | Thu 15 Sep | ?  |?  |
