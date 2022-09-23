@@ -12,10 +12,10 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 |6  | Wed 7 Sept  | Electoral Geography  | Day6_Electoral_Geographies.R  |
 |7  | Thu 8 Sept  | Population by SA2, 2018  | Day7_Population.R  |
 |8  | Fri 9 Sept  | Population Change by TA, 2013-18  |  Day8_Population_Change.R |
-|9  | Sat 10 Sept  | Population Change by Age Group, 2018. (Bonus Feature = multiple maps) |  Day9_Population_Age.R |
+|9  | Sat 10 Sept  | Population by Age Group, Children 2018. (Bonus Feature = multiple maps) |  Day9_Population_Age.R |
 |*| Sun 11 Sept  |*|*|
-|10  | Mon 12 Sept  | ?  |?  |
-|11  | Tue 13 Sept  | ?  |?  |
+|10  | Mon 12 Sept  | Population by Age Group, Over65s 2018.  |Day10_Population_Age_Over65.R  |
+|11  | Tue 13 Sept  | Population Dependency Ratios, 2013 to 2018 |Day11_Population_Dependency_Ratio.R  |
 |12 | Wed 14 Sept  | ?  |?  |
 |13  | Thu 15 Sept  | ?  |?  |
 |14  | Fri 16 Sept  | ?  |?  |
