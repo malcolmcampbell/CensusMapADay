@@ -18,8 +18,8 @@ A may every day of September, except days off, from the NZ Census 2018. See the 
 |11 | Tue 13 Sep | Population Dependency Ratios, by TA, 2013 to 2018 | Day11_Population_Dependency_Ratio.R |
 |12 | Wed 14 Sep | Population Sex Ratios, battle of the sexes, by TA, 2018  | Day12_Population_Sex_Ratio.R |
 |13 | Thu 15 Sep | Personal Median Income ($), by TA, Change 2013-18 | Day13_Population_Income.R |
-|14 | Fri 16 Sep | Regular Smokers, by TA, 2018 (Total Stated) | Day14_Population_Smoking.R |
-|15 | Sat 17 Sep | ?  |?  |
+|14 | Fri 16 Sep | Regular Smokers, by TA, 2018 (% Total Stated) | Day14_Population_Smoking.R |
+|15 | Sat 17 Sep | Home Owners, % by SA2, 2018 | Day15_Home_owners.R  |
 |  *| Sun 18 Sep |*   | * |
 |16 | Mon 19 Sep | ?  |?  |
 |17 | Tue 20 Sep | ?  |?  |
