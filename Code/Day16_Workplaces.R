@@ -93,11 +93,10 @@ SA2tmap
 #library(cartogram)
 #workplace_cartogram <- cartogram_cont ( SA2_work, "Value", itermax = 10)
 #tmap_mode("plot")
-#SA2tmap <- tm_shape (workplace_cartogram) + 
+#SA2tmapcarto <- tm_shape (workplace_cartogram) + 
 #  tm_polygons("Value", style="quantile", 
 #              title="Workplaces(n)",
-#             border.col = "black", lwd=0.002) +
-#  
+#             border.col = "black", lwd=0.002) +#  
 # tm_layout (main.title="New Zealand Cartogram, Workplace data, SA2, 2018") +
 # tm_scale_bar(width=0.15, position=c("right","top")) +
 # tm_compass(position=c("right","top"), type="rose", size=4) +
